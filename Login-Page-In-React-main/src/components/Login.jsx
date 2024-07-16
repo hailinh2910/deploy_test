@@ -18,7 +18,7 @@ const Login = () => {
             <img src={Logo} alt="Logo" />
           </div>
           <div className="login-center">
-            <h2>Hello Thùy Changgg Khùng ♥ !</h2>
+            <h2>Hello abc!</h2>
             <p>Welcome back! Please enter your details to continue.</p>
             <form>
               <input type="email" placeholder="Email" />
